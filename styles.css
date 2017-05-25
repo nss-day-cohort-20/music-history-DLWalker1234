@@ -1,0 +1,32 @@
+.box1 {
+	background-color: #FFB4B0;
+	margin: 100px;
+	border: 2px solid black;
+	padding: 15px;
+
+
+}
+
+.box2 {
+	background-color: #4DD7FA;
+	float:left;
+	margin:100px;
+	margin-top: -90px;
+	border: 2px solid black;
+	padding-right: 100px;
+}
+
+.box3 {
+	background-color:#FEFAC0;
+	background-size: 0 0 0 -200px;
+	float:right;
+	padding-right: 300px;
+	margin-top: -90px;
+	border: 2px solid black;
+	padding-left: 400px
+
+}
+
+h2 {
+	color:#785616;
+}
